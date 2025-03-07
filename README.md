@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm baskororinakit!<br>💻 Aspiring Programmer | Tech Enthusiast<br>🚀 Passionate about learning coding and building projects<br>🎯 My goal is to become a skilled programmer and contribute to the tech community
+👋 Hi, I'm Baskoro Rinakit!<br>💻 Aspiring Programmer | Tech Enthusiast<br>🚀 Passionate about learning coding and building projects<br>🎯 My goal is to become a skilled programmer and contribute to the tech community
 
 
 ## 🌐 Socials:
