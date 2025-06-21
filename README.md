@@ -3,7 +3,7 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://pin.it/7Hsp2WiSY" alt="Banner GIF">
+  <img src="https://drive.google.com/file/d/1epyhWCG9fkkZVtv2t1NVtl6C6rZU8G8s/view?usp=drivesdk" alt="Banner GIF">
 </p>
 
 
