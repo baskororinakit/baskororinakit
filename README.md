@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/UH8KV4m.gif)]
+![MasterHead](https://i.imgur.com/UH8KV4m.gif)
 <h1 align="center">Hi 👋, I'm Baskoro</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
