@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=F7F7F7&width=435&lines=Hi%2C+I'm+Baskoro%F0%9F%91%8B;Welcome+to+my+Github!;Exploring+the+digital+world%2C+one+line+of+code+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=10&pause=200&color=F7F7F7&center=true&width=435&lines=Hi%2C+I'm+Baskoro%F0%9F%91%8B;Welcome+to+my+Github!;Exploring+the+digital+world%2C+one+line+of+code+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
@@ -26,10 +26,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskororinakit&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baskororinakit&show_icons=true&theme=radical" alt="Baskoro's GitHub stats"/>
 </p>
 
 ---
