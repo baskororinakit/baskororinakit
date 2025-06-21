@@ -1,9 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=F7F7F7&width=435&lines=Hi%2C+I'm+Baskoro%F0%9F%91%8B;Welcome+to+my+Github!;Exploring+the+digital+world%2C+one+line+of+code+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/UH8KV4m.gif" width="100%" alt="Banner GIF">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=F7F7F7&center=true&width=435&lines=Hi%2C+I'm+Baskoro%F0%9F%91%8B;Welcome+to+my+Github!;Exploring+the+digital+world%2C+one+line+of+code+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
