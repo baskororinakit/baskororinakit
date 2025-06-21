@@ -3,24 +3,19 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/UH8KV4m.gif" width="100%" height="100%" alt="Banner GIF">
+  <img src="https://i.imgur.com/UH8KV4m.gif" width="100%" height="auto" alt="Banner GIF">
 </p>
 
 ---
 
-### 🛠 My Skills
+## 🛠 My Skills
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="border-radius: 10px; margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="border-radius: 10px; margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="border-radius: 10px; margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="border-radius: 10px; margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="border-radius: 10px; margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="border-radius: 10px; margin: 10px;">
-</p>
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,figma)](https://skillicons.dev)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskororinakit&layout=compact&langs_count=6&theme=jolly" alt="Top Languages"/>
