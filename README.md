@@ -6,19 +6,19 @@
   <img src="https://i.imgur.com/UH8KV4m.gif" width="100%" height="auto" alt="Banner GIF">
 </p>
 
----
 
-## 🛠 My Skills
+## 📌 My Skills
 <p align="left">
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,figma)](https://skillicons.dev)
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskororinakit&layout=compact&langs_count=6&theme=jolly" alt="Top Languages"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=baskororinakit&show_icons=true&theme=jolly" alt="GitHub stats"/>
 </p>
 
 ---
