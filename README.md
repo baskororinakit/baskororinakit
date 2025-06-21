@@ -3,7 +3,7 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://imgflip.com/gif/9y3l8o" alt="Banner GIF">
+  <img src="https://pin.it/7Hsp2WiSY" alt="Banner GIF">
 </p>
 
 
