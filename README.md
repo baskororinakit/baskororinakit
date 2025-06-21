@@ -15,10 +15,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskororinakit&layout=compact&langs_count=6&theme=jolly" alt="Top Languages"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=baskororinakit&show_icons=true&theme=jolly" alt="GitHub stats"/>
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=baskororinakit&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baskororinakit&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
