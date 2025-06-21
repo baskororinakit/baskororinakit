@@ -1,14 +1,14 @@
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/baskororinakit">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baskoro!;Exploring+the+digital+world+one+line+of+code+at+a+time+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
 <!-- Banner GIF -->
 <p align="center">
   <img src="https://i.imgur.com/UH8KV4m.gif" width="100%" alt="Banner GIF">
 </p>
-
-<!-- Hi I'm Text with Typing Animation -->
-<h1 align="center">Hi, I'm Baskoro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-
-<h3 align="center">
-  Exploring the digital world, one line of code at a time 🚀
-</h3>
 
 ---
 
