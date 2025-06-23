@@ -3,7 +3,7 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN3NlbGhhdW40bmRiMzg5NXJ0amRjZWRtMDFpMzB2Yzl5M29jbzcwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gB5t4bgELt12zunKeh/giphy.gif" alt="Banner GIF">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN3NlbGhhdW40bmRiMzg5NXJ0amRjZWRtMDFpMzB2Yzl5M29jbzcwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gB5t4bgELt12zunKeh/giphy.gif" width="100%" top="0" alt="Banner GIF">
 </p>
 
 
