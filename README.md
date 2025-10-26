@@ -7,7 +7,7 @@
 </p>
 
 
-## 📌 My Skillss
+## 📌 My Skills
 <p align="left">
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,figma)](https://skillicons.dev)
